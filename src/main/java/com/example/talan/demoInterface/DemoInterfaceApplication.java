@@ -18,7 +18,7 @@ public class DemoInterfaceApplication {
 
     @GetMapping("/showMessage")
     public String getSrtring() {
-        return "hello word";
+        return "hello word aymen";
     }
 
 }
